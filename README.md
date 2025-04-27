@@ -25,5 +25,4 @@ A sleek and user-friendly Android application built with ❤️ using **Kotlin**
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.  
 
-✨ Happy Converting! ✨  
 Made with 💻 and ☕ by Vivek
