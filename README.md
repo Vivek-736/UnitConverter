@@ -11,7 +11,8 @@ This is a sleek and user-friendly Android application built with ❤️ using **
 - **Android Studio**: The official IDE for Android development.
 
 ## 📸 Screenshots
-*(Add your app screenshots here to showcase its design and functionality)*
+![image alt](https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot2.jpg)
+![image alt](https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot1.jpg)
 
 ## 📥 Installation
 1. Clone this repository:  
