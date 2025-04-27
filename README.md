@@ -1,18 +1,18 @@
-# 📏 Unit Converter Android Application
+# 📏 Unit Converter App
 
-Welcome to the **Unit Converter** app! 🎉  
-This is a sleek and user-friendly Android application built with ❤️ using **Kotlin**.  
+A sleek and user-friendly Android application built with ❤️ using **Kotlin**.
 
 ## 🚀 Features
-- 📏 **Convert Length**: Meters, Centimeters, Millimeters, Feet, etc.
+- 📏 **Length Conversion**: Meters, Centimeters, Millimeters, Feet, and more.
 
-## 🛠️ Built With
-- **Kotlin**: Modern, concise, and powerful programming language.
-- **Android Studio**: The official IDE for Android development.
+## 🛠️ Tech Stack
+- **Kotlin** & **Android Studio**
 
 ## 📸 Screenshots
-![image alt](https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot2.jpg)
-![image alt](https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot1.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot2.jpg" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot1.jpg" alt="Screenshot 2" width="200"/>
+</div>
 
 ## 📥 Installation
 1. Clone this repository:  
